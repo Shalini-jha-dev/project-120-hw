@@ -1,0 +1,13 @@
+#intro{
+    margin-top: 400px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#next{
+    background-color: aqua;
+    height:50px;
+    width: 200px;
+    font-size: large;
+    border: blue solid 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
